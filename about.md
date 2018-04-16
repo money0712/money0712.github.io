@@ -13,7 +13,43 @@ permalink: /about/
 </div>
 </center>
 <div class="manual manual-title">
-  <img src="1.png" width="100" height="100" alt="사진">
+  <img src="![1](https://user-images.githubusercontent.com/37648643/38792115-f2f2986c-413a-11e8-837d-d7d5b82c14e0.jpg)" width="100" height="100" alt="사진">  </div>
+<p>  <div class="manual-content">
+
+
+</div>
+<p><br /></p>1.png"
+
+ width="100" height="100" alt="사진">  </div>
+
+
+<p>  <div class="manual-content">
+
+
+</div>
+<p><br /></p>1.png"
+
+ width="100" height="100" alt="사진">  </div>
+
+
+<p>  <div class="manual-content">
+
+
+</div>
+<p><br /></p>"
+
+ width="100" height="100" alt="사진">  </div>
+
+
+<p>  <div class="manual-content">
+
+
+</div>
+<p><br /></p>"
+
+ width="100" height="100" alt="사진">
+
+
   </div>
 <p>  <div class="manual-content">
 
