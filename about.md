@@ -13,7 +13,7 @@ permalink: /about/
 </div>
 </center>
 <div class="manual manual-title">
-  <img src="![1](https://user-images.githubusercontent.com/37648643/38792115-f2f2986c-413a-11e8-837d-d7d5b82c14e0.jpg)" width="100" height="100" alt="사진">  </div>
+  <img src="![1](https://user-images.githubusercontent.com/37648643/38792298-d704a194-413b-11e8-8801-6a76b4be67b8.jpg)" width="90%"></img>  </div>
 <p>  <div class="manual-content">
 
 
