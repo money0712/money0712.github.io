@@ -7,8 +7,8 @@
 
 # Site settings
 title: Dong il Kim
-email: money0712@naver.com
-description: STORIES ON THE MOVE
+email: yout-email@domain.com
+description: Data Analytics Learning Time
 
 baseurl: "" #e.g. /safarnama, /blog. Dont forget the '/'.
 url: "http://money0712.github.io" # the base hostname & protocol for your site
