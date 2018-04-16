@@ -18,49 +18,4 @@ permalink: /about/
 
 
 </div>
-<p><br /></p>1.png"
 
- width="100" height="100" alt="사진">  </div>
-
-
-<p>  <div class="manual-content">
-
-
-</div>
-<p><br /></p>1.png"
-
- width="100" height="100" alt="사진">  </div>
-
-
-<p>  <div class="manual-content">
-
-
-</div>
-<p><br /></p>"
-
- width="100" height="100" alt="사진">  </div>
-
-
-<p>  <div class="manual-content">
-
-
-</div>
-<p><br /></p>"
-
- width="100" height="100" alt="사진">
-
-
-  </div>
-<p>  <div class="manual-content">
-
-
-</div>
-<p><br /></p>
-
-  <div class="manual manual-title">
-  
-  </div>
-<p>  <div class="manual-content">
-
-
-  </div>
